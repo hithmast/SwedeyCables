@@ -8,10 +8,10 @@ def percent_(product): #Simple Function to Calculate Our Math
     return()
 
 solid = { #Solid List for Swedey CopperWire Coated With PVC Max 75 C
-    "1mm": 253, "1.5mm": 365,"2mm":482, "3mm": 695, "4mm": 895, "6mm": 1365,"10mm":2210,"16mm":3471
+    "1mm": 250.80, "1.5mm": 361.38,"2mm":479.94, "3mm": 691.98, "4mm": 893.76, "6mm": 1362.30,"10mm":2200.20,"16mm":3470.16
     }
 flexible = { #Flixeble List for Swedey CopperWire Coated With PVC Max 75 C
-    "1mm": 287,"1.5mm":413, "2mm": 549, "3mm": 790, "4mm": 1020, "6mm": 1555, "10mm": 2510, "16mm": 3957
+    "1mm": 285.91,"1.5mm":412, "2mm": 547.14, "3mm": 788.88, "4mm": 1018.93, "6mm": 1553.02, "10mm": 2508, "16mm": 3955.80
     }
 
 for items in solid: 
